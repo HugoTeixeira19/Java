@@ -1,4 +1,4 @@
-# hello-world
+# Readme
 Projeto de um agente reativo: Aspirador de pó
 O ambiente são duas salas A e B, onde o agente identifica se está suja (sujo é apresentado como status = 1), executa a função aspirar, caso o status for igual a 0 executa a função trocar sala.
 É sorteado dois números randômicos 0 ou 1, determinando os status das salas.
